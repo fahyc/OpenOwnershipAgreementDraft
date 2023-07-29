@@ -50,13 +50,13 @@ Tentative rules for open ownership are as follows:
 
 	4a. Up to 40% of the company shares can be sold to fund the company. These shares can be freely transferred. The rest are reserved for compensating Contributors.
 
-4b. Shares that aren’t issued yet and still owned by the company vote proportionally with the Contributors. This rule means that initial funders won’t immediately own the company if they hold the majority of issued shares - because at least 60% of all shares are reserved for Contributors and will always vote with Contributors. 
+	4b. Shares that aren’t issued yet and still owned by the company vote proportionally with the Contributors. This rule means that initial funders won’t immediately own the company if they hold the majority of issued shares - because at least 60% of all shares are reserved for Contributors and will always vote with Contributors. 
 
-4c. Share dilution should not affect the 60/40 split. Dilution should apply to existing Contributor shares and Funding shares equally. So when new shares are created, 60% of them will be unissued Contributor shares owned by the company, and 40% of them will be unissued funding shares that may be sold. 
+	4c. Share dilution should not affect the 60/40 split. Dilution should apply to existing Contributor shares and Funding shares equally. So when new shares are created, 60% of them will be unissued Contributor shares owned by the company, and 40% of them will be unissued funding shares that may be sold. 
 
-4d. Funding shares may be sold by a shareholder vote, or on a schedule created by shareholder vote.
+	4d. Funding shares may be sold by a shareholder vote, or on a schedule created by shareholder vote.
 
-4e. Funds from selling stock are the property of the company, and may be spent based on a shareholder vote or by a Contributor shareholders voted to delegate this authority to. 
+	4e. Funds from selling stock are the property of the company, and may be spent based on a shareholder vote or by a Contributor shareholders voted to delegate this authority to. 
 
 5. **This is also a non-disclosure agreement**
 
@@ -64,8 +64,8 @@ Tentative rules for open ownership are as follows:
  
 6. **Dispute Resolution**
 
-6a. Disputes between shareholders should generally be resolved with best faith discussion or through a shareholder vote.
+	6a. Disputes between shareholders should generally be resolved with best faith discussion or through a shareholder vote.
 
-6b. If neither of those are an option, the parties agree first to try in good faith to settle the dispute by mediation administered by the American Arbitration Association under its Commercial Mediation Procedures before resorting to arbitration, litigation, or some other dispute resolution procedure.
+	6b. If neither of those are an option, the parties agree first to try in good faith to settle the dispute by mediation administered by the American Arbitration Association under its Commercial Mediation Procedures before resorting to arbitration, litigation, or some other dispute resolution procedure.
 
 
